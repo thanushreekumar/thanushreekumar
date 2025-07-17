@@ -51,8 +51,20 @@
 ---
 
 ### 📬 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thanushree-kumar-2a4119257)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thanushree.kumarr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thanushree.kumarr)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/thanushreekumar)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/thanushreekumar/)  
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://t.snapchat.com/q520KD82)
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushreekumar&layout=compact&theme=default" />
+</p>
 
 ---
 
