@@ -1,41 +1,49 @@
-# Hi 👋, I'm Thanu Shree K
-
-**CSE-Part 4 | Jain University | Bengaluru**
-
-![Profile views](https://komarev.com/ghpvc/?username=thanushree07)
-
-- 🔭 I’m currently working on **Web Development and Machine Learning projects**
-- 🌱 Currently learning: **TensorFlow, Pandas, NumPy, NoSQL**
-- 💬 Ask me about: **Java, Python, SQL, HTML, CSS, JavaScript**
-- 📫 Reach me at: [thanushreekumar868@gmail.com](mailto:thanushreekumar868@gmail.com)
+<h1 align="center">Hi 👋, I'm Thanu Shree K</h1>
+<h3 align="center">Computer Science Engineer | Jain University, Bengaluru</h3>
 
 ---
 
-## 🛠 Skills
+### 🧰 Languages & Tools:
 
-- **Programming Languages:** Java, Python, C  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** SQL, NoSQL  
-- **Libraries & Frameworks:** NumPy, Pandas, TensorFlow  
-- **Tools:** GitHub, VS Code
-
----
-
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanushree-kumar-2a4119257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanushree.kumarr?igsh=MXA5aHpkMHQ0Z3gwbA%3D%3D&utm_source=qr)
-
----
-
-## 🧰 Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,numpy,pandas,tensorflow,mysql,mongodb,git,github,vscode" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 </p>
 
 ---
 
-## 📊 Most Used Languages:
+### 🔗 Connect with Me:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanushree07&layout=compact&theme=default)
+<p align="center">
+  <a href="mailto:thanushreekumar868@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thanushree-kumar-2a4119257"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/thanushree.kumarr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Thanushree-Kumar"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanushree-Kumar&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanushree-Kumar&layout=compact&theme=default&langs_count=8" width="48%" />
+</p>
+
+---
+
+### 💬 About Me:
+- 🎓 Jain University, Bengaluru  
+- 💻 Passionate about development, AI & coding  
+- 🌱 Currently learning Java & improving coding skills
